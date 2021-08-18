@@ -1,0 +1,21 @@
+ integer quantidadeVendedores = 8;
+ string rua = "Carmelia dos santos n:30"
+ float precoEtanol = 6.50;
+ Boolean lampada = true;
+ string cep = "132412";
+ integer andarElevador = 2;
+ Boolean luzAndar = true;
+ Date aniversario = "09/03/1999";
+ float pesoPrato = 5.23;
+ integer numBois = 10; 
+ Date datPasc = "09/08/2021";
+ integer caixaLaran = 82;
+ Char vogal = "a"
+ string livro = "Um conto de fadas";
+ float cataoLimite = "R$1500,00";
+ string horaJogo = "7:00"
+ string tamanhoPredio = "180m"
+ integer paginas = 40;
+ Boolean salaReuniao = true;
+ String alternativaQuetao = "a";
+ 
