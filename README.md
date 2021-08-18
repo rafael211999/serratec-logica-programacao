@@ -1,2 +1,2 @@
 # serratec-logica-programacao
-Exercícios e exemplos da Residência Serratec,
+Exercícios e exemplos da Residência Serratec.
