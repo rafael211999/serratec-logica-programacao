@@ -1,0 +1,1 @@
+console.log(" O meu objetivo nesse curso é aprender e me tornar um programador.\n Espero que no final do curso eu consiga programar, e sentir que eu sou um programador. \n Quando terminar o curso tenho o bojetivo de trabalhar na area de programação e evoluir cada veis mais como programador, sempre aprendendo coisas novas e me renovando.")
